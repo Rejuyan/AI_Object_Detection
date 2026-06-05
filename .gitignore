@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Large binaries / YOLO Models
+*.pt
+*.onnx
+
+# Local IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
