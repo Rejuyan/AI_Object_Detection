@@ -4,7 +4,6 @@ An interactive, real-time object tracking and hand-gesture landmark detection sy
 
 The system features both a **web/mobile Flutter application** (designed with a sleek, light-colored Amazon theme) and a **standalone Python desktop interface**.
 
-![Application UI Interface](app_ui_screenshot.png)
 
 ---
 
